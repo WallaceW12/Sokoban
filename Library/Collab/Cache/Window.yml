@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Elements.meta
+    - Assets/Elements/box.png
+    - Assets/Elements/box.png.meta
+    - Assets/Elements/brokenwall.png
+    - Assets/Elements/brokenwall.png.meta
+    - Assets/Elements/egg.png
+    - Assets/Elements/egg.png.meta
+    - Assets/Elements/grass.png
+    - Assets/Elements/grass.png.meta
+    - Assets/Elements/heart.png
+    - Assets/Elements/heart.png.meta
+    - Assets/Elements/player3.png
+    - Assets/Elements/player3.png.meta
+    - Assets/Elements/target.png
+    - Assets/Elements/target.png.meta
+    - Assets/Elements/wall.png
+    - Assets/Elements/wall.png.meta
+    - Assets/Images.meta
+    - Assets/Images/level1.png
+    - Assets/Images/level1.png.meta
+    - Assets/Images/level2.png
+    - Assets/Images/level2.png.meta
+    - Assets/Images/level3.png
+    - Assets/Images/level3.png.meta
+    - Assets/Maps.meta
+    - Assets/Maps/level1.txt
+    - Assets/Maps/level1.txt.meta
+    - Assets/Maps/level2.txt
+    - Assets/Maps/level2.txt.meta
+    - Assets/Maps/level3.txt
+    - Assets/Maps/level3.txt.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/LevelScene.unity
+    - Assets/Scenes/LevelScene.unity.meta
+    - Assets/Scenes/MenuScene.unity
+    - Assets/Scenes/MenuScene.unity.meta
+    - Assets/Scenes/Obj.unity
+    - Assets/Scenes/Obj.unity.meta
+    - Assets/Scenes/SampleScene.scenetemplate
+    - Assets/Scenes/SampleScene.scenetemplate.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scipts.meta
+    - Assets/Scipts/Back.cs
+    - Assets/Scipts/Back.cs.meta
+    - Assets/Scipts/Box.cs
+    - Assets/Scipts/Box.cs.meta
+    - Assets/Scipts/CameraSwitch.cs
+    - Assets/Scipts/CameraSwitch.cs.meta
+    - Assets/Scipts/GameModel.cs
+    - Assets/Scipts/GameModel.cs.meta
+    - Assets/Scipts/Level1.cs
+    - Assets/Scipts/Level1.cs.meta
+    - Assets/Scipts/LevelBuilder.cs
+    - Assets/Scipts/LevelBuilder.cs.meta
+    - Assets/Scipts/LevelSelection.cs
+    - Assets/Scipts/LevelSelection.cs.meta
+    - Assets/Scipts/LoadMap.cs
+    - Assets/Scipts/LoadMap.cs.meta
+    - Assets/Scipts/Player.cs
+    - Assets/Scipts/Player.cs.meta
+    - Assets/Scipts/ResetPanel.cs
+    - Assets/Scipts/ResetPanel.cs.meta
+    - Assets/Scipts/WinMessage.cs
+    - Assets/Scipts/WinMessage.cs.meta
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
