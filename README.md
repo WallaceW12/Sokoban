@@ -1,4 +1,3 @@
-```markdown
 # Sokoban Game
 
 ## Overview
@@ -10,11 +9,11 @@ To install and run the Sokoban game, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/WallaceW12/Sokoban.git
-   ```
+
 2. Navigate to the project directory:
    ```bash
    cd Sokoban
-   ```
+
 3. Open the project in your preferred IDE (e.g., Visual Studio).
 
 ## Usage
