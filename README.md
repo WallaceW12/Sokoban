@@ -1,5 +1,3 @@
-Here's the corrected README content in code format for easy copying:
-
 ```markdown
 # Sokoban Game
 
